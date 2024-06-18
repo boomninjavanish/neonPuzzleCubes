@@ -4,7 +4,7 @@
 
 Neon Puzzle Cubes is an algorithmic composition that is solely controlled with the eyes. This project utilizes a [Tobii Eyetracker 4C](https://gaming.tobii.com/product/tobii-eye-tracker-4c/) for the eye tracking, Unity for the interface, and Max for the control of the composition and production of the audio.
 
-![Graphic that demonstrates the work-flow of the application.](https://github.com/boomninjavanish/media/blob/master/neonPuzzleCubes/workflow.png)
+![Graphic that demonstrates the work-flow of the application.](https://raw.githubusercontent.com/boomninjavanish/media/master/neonPuzzleCubes/workflow.png)
 
 ## Interface
 
