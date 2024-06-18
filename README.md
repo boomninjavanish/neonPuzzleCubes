@@ -1,6 +1,6 @@
 # Neon Puzzle Cubes
 ## A probabilistic algorithmic composition.
-[Main Max patcher in the Neon Puzzle Cubes composition.](https://raw.githubusercontent.com/boomninjavanish/media/master/neonPuzzleCubes/maxMain.png)
+![Main Max patcher in the Neon Puzzle Cubes composition.](https://raw.githubusercontent.com/boomninjavanish/media/master/neonPuzzleCubes/maxMain.png)
 
 Neon Puzzle Cubes is an algorithmic composition that is solely controlled with the eyes. This project utilizes a [Tobii Eyetracker 4C](https://gaming.tobii.com/product/tobii-eye-tracker-4c/) for the eye tracking, Unity for the interface, and Max for the control of the composition and production of the audio.
 
