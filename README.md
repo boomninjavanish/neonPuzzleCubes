@@ -26,7 +26,7 @@ The disk on the bottom of the interface is a gaze-aware object that allows the u
 
 ## Open Sound Control (OSC)
 
-[OSC](http://opensoundcontrol.org/introduction-osc) is used as a means of communication between the Unity interface and the composition controller in Max. Two UPD port are opened on the local interface (127.0.0.1) for sending and receiving commands and responses.  
+[OSC](https://opensoundcontrol.stanford.edu/) is used as a means of communication between the Unity interface and the composition controller in Max. Two UPD port are opened on the local interface (127.0.0.1) for sending and receiving commands and responses.  
 
 ![The sub-patch in Max that receives the OSC data and requests from Unity.](https://raw.githubusercontent.com/boomninjavanish/media/master/neonPuzzleCubes/maxOscReceiver.png)
 
